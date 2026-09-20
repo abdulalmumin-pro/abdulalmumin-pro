@@ -1,19 +1,21 @@
 ## Hi there 👋
 
-<!--
-**abdulalmumin-pro/abdulalmumin-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently Student
+- 🌱 I’m currently learning Web devolopmemt
+- 👯 I’m looking to collaborate on learning
+- 🤔 I’m looking for help with Web devolopmemt
+- 💬 Ask me about web devolopmemt
+- 📫 How to reach me: from social link
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##About Me:
+I’m a beginner web developer currently learning and improving my skills in web development.
+I have hands-on experience with HTML, CSS, and JavaScript, and I’m focused on building a strong foundation in full-stock development. I enjoy creating websites, experimenting with new ideas, and learning how things work behind the scenes.
+Right now, I’m working on improving my JavaScript skills, building more projects, and learning modern web development practices step by step.
+I’m not job-ready yet, but I’m committed to learning, practicing, and becoming a better developer every day.
+🚀 Currently learning
+💻 HTML | CSS | JavaScript
+📚 Building projects & improving my skills
+🎯 Goal: Become a skilled full-stack web developer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mumin.2bd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-al-mumin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mumin2bd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulalmumin0332@gmail.com) 
