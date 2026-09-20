@@ -9,13 +9,9 @@
 
 ##About Me:
 I’m a beginner web developer currently learning and improving my skills in web development.
-I have hands-on experience with HTML, CSS, and JavaScript, and I’m focused on building a strong foundation in full-stock development. I enjoy creating websites, experimenting with new ideas, and learning how things work behind the scenes.
+I have hands-on experience with HTML, CSS, and JavaScript, TypeScript, react, Next-js and I’m focused on building a strong foundation in full-stock development. I enjoy creating websites, experimenting with new ideas, and learning how things work behind the scenes.
 Right now, I’m working on improving my JavaScript skills, building more projects, and learning modern web development practices step by step.
 I’m not job-ready yet, but I’m committed to learning, practicing, and becoming a better developer every day.
-🚀 Currently learning
-💻 HTML | CSS | JavaScript
-📚 Building projects & improving my skills
-🎯 Goal: Become a skilled full-stack web developer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mumin.2bd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-al-mumin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mumin2bd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulalmumin0332@gmail.com) 
