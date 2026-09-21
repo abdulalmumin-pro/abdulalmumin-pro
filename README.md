@@ -7,7 +7,7 @@
 - 💬 Ask me about web devolopmemt
 - 📫 How to reach me: from social link
 
-##About Me:
+## About Me:
 I’m a beginner web developer currently learning and improving my skills in web development.
 I have hands-on experience with HTML, CSS, and JavaScript, TypeScript, react, Next-js and I’m focused on building a strong foundation in full-stock development. I enjoy creating websites, experimenting with new ideas, and learning how things work behind the scenes.
 Right now, I’m working on improving my JavaScript skills, building more projects, and learning modern web development practices step by step.
