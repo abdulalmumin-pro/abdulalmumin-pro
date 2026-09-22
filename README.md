@@ -1,17 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently Student
-- 🌱 I’m currently learning Web devolopmemt
-- 👯 I’m looking to collaborate on learning
-- 🤔 I’m looking for help with Web devolopmemt
-- 💬 Ask me about web devolopmemt
-- 📫 How to reach me: from social link
+I'm a beginner Full-Stack Web Developer passionate about learning, building, and improving every day.
 
-## About Me:
-I’m a beginner web developer currently learning and improving my skills in web development.
-I have hands-on experience with HTML, CSS, and JavaScript, TypeScript, react, Next-js and I’m focused on building a strong foundation in full-stock development. I enjoy creating websites, experimenting with new ideas, and learning how things work behind the scenes.
-Right now, I’m working on improving my JavaScript skills, building more projects, and learning modern web development practices step by step.
-I’m not job-ready yet, but I’m committed to learning, practicing, and becoming a better developer every day.
+## 🚀 About Me
+
+- 🎓 Currently learning Full-Stack Web Development
+- 🌱 Learning through the Programming Hero Bootcamp
+- 💻 Currently working with JavaScript, React, Next.js, Tailwind CSS, HTML5 & CSS3
+- 🔧 Building projects to strengthen my frontend and backend skills
+- 📚 Continuously learning new technologies and programming languages
+- 🤝 Open to collaborating on learning-focused and beginner-friendly projects
+- 🎯 My goal is to become a skilled and well-rounded Full-Stack Engineer
+
+## 🛠️ Current Focus
+
+I'm currently improving my JavaScript fundamentals, building real-world projects, and expanding my knowledge of full-stack development. My goal is to understand not only how to build modern websites, but also how the systems behind them work.
+
+> Learning → Building → Improving → Repeating 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mumin.2bd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-al-mumin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mumin2bd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulalmumin0332@gmail.com) 
