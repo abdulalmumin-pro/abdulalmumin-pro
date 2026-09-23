@@ -1,5 +1,8 @@
 # Hi there 👋
 
+<img width="851" height="315" alt="benner" src="https://github.com/user-attachments/assets/b1585265-4198-4731-ba51-cf2a7b4ecbcf" />
+
+
 I'm a beginner Full-Stack Web Developer passionate about learning, building, and improving every day.
 
 ## 🚀 About Me
