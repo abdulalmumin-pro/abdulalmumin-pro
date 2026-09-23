@@ -6,7 +6,7 @@ I'm a beginner Full-Stack Web Developer passionate about learning, building, and
 
 - 🎓 Currently learning Full-Stack Web Development
 - 🌱 Learning through the Programming Hero Bootcamp
-- 💻 Currently working with JavaScript, React, Next.js, Tailwind CSS, HTML5 & CSS3
+- 💻 Currently working with HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS & TypeScript
 - 🔧 Building projects to strengthen my frontend and backend skills
 - 📚 Continuously learning new technologies and programming languages
 - 🤝 Open to collaborating on learning-focused and beginner-friendly projects
