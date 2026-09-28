@@ -1,6 +1,8 @@
 # Hi there 👋
 
-<img width="851" height="315" alt="benner" src="https://github.com/user-attachments/assets/b1585265-4198-4731-ba51-cf2a7b4ecbcf" />
+<img width="2056" height="765" alt="ChatGPT Image Sep 28, 2026, 11_42_43 AM" src="https://github.com/user-attachments/assets/ef600187-e66f-44a4-b3bb-a4f9acc1fa22" />
+
+
 
 
 ## 🚀 About Me
