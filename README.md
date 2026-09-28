@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img width="2056" height="765" alt="ChatGPT Image Sep 28, 2026, 11_42_43 AM" src="https://github.com/user-attachments/assets/ef600187-e66f-44a4-b3bb-a4f9acc1fa22" />
+<img width="2056" height="765" alt="linkdin_cover_photo" src="https://github.com/user-attachments/assets/d1419811-5b5a-4098-bc8f-10819bc05e6e" />
 
 
 
